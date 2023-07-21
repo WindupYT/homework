@@ -24,6 +24,39 @@ body {
     margin: 20px auto;
 }
 
+#title3 {
+    width: 55%;
+    height: 100px;
+    background-color: #ffb412;
+    border: 3px solid #320202;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 30px;
+    margin: 20px auto;
+}
+
+#title4 {
+    width: 53%;
+    height: 90px;
+    background-color: #ffb412;
+    border: 3px solid #320202;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 30px;
+    margin: 20px auto;
+}
+
+#title5 {
+    width: 90%;
+    height: 89px;
+    background-color: #ffb412;
+    border: 3px solid #320202;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 30px;
+    margin: 20px auto;
+}
+
 #titlestyle {
     font-size: 50px;
     color: #000439;
@@ -81,10 +114,20 @@ ol {
     z-index: 1;
 }
 
+ul {
+    color: aliceblue;
+    text-align: left;
+    margin: 80px;
+    font-family: 'Sen', sans-serif;
+    font-size: 30px;
+    position: relative;
+    z-index: 1;
+}
+
 #image2 {
     width: 20%;
     margin-left: 600px;
-    margin-top: 100px;
+    margin-bottom: 50px;
     opacity: 0.1;
 }
 
